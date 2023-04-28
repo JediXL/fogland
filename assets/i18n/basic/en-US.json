@@ -1,6 +1,7 @@
 {
   "NAV": {
     "INDEX": "Blog",
+    "BOOK":"Books",
     "RSS": "RSS",
     "SEARCH": "Search",
     "ABOUT": "About"

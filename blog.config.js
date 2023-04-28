@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Fogland',
+  title: '浓雾荒原',
   author: 'JediXL',
   email: 'Xiangyangan@gmail.com',
   link: 'https://fogland-jxl.vercel.app',

@@ -1,7 +1,7 @@
 const BLOG = {
   title: '浓雾荒原',
   author: 'JediXL',
-  email: 'Xiangyangan@gmail.com',
+  email: 'liujadi@gmail.com',
   link: 'https://fogland-jxl.vercel.app',
   description: 'Welcome to Fogland.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-    socialLink: 'https://jedixl.notion.site/806a5cff1e154acf9c1555fb4c5abceb',
+    socialLink: 'https://jedixl.notion.site',
   seo: {
     keywords: ['浓雾荒原', 'Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code

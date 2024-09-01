@@ -1,8 +1,6 @@
 {
   "NAV": {
     "INDEX": "Blog",
-    "BOOK":"Books",
-    "PHOTO":"Photos",
     "RSS": "RSS",
     "SEARCH": "Search",
     "ABOUT": "About"

@@ -117,6 +117,7 @@ class MyDocument extends Document {
           </style>
         </Head>
         <body className="bg-day dark:bg-night">
+            <h1> 123 </h1>
           <Main />
           <NextScript />
         </body>
